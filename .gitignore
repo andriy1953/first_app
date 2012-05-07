@@ -10,7 +10,6 @@
 /tmp
 tmp/**/*
 tmp/*
-Gemfile.lock
 doc/api
 doc/app
 # Ignore other unneeded files.
